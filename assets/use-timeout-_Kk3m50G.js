@@ -1,0 +1,1 @@
+import{x as r,o as i,y as s,g as m}from"./index-DM39gvnX.js";function a(){let e=null;const o=m();function t(){e!==null&&(clearTimeout(e),e=null)}return r(t),i(t),{removeTimeout:t,registerTimeout(n,u){t(),s(o)===!1&&(e=setTimeout(()=>{e=null,n()},u))}}}export{a as u};
