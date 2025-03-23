@@ -1,0 +1,1 @@
+.sticker{height:1.2em;width:auto;vertical-align:middle}.moving-image{position:absolute;transform:translateY(-50%);animation:moveImage 4s linear infinite;transition:opacity 1s ease}@keyframes moveImage{0%{left:-150px}to{left:101%}}@keyframes floatButton{0%,to{transform:translateY(0)}50%{transform:translateY(-5px)}}
